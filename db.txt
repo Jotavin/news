@@ -1,4 +1,0 @@
-Production:
-  DigitalOcean
-Staging:
-  Neon
